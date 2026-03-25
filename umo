@@ -1,0 +1,65 @@
+* [33mcommit 8a2d27c791bea22310a8b77c9b6a2a5f58dc8fe8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrm570196[m[33m, [m[1;31morigin/rm570196[m[33m)[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 18 21:02:57 2026 -0300
+[31m|[m 
+[31m|[m     feat : Acesso pagina 2 em outro ambiente
+[31m|[m 
+* [33mcommit 504bbb5b9e79d46a3fbe4f9c56085a3366efbb1f[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 18 20:52:40 2026 -0300
+[31m|[m 
+[31m|[m     feat : Link entre paginas adicionados
+[31m|[m 
+* [33mcommit f04d9147de67b502994aa519141a32860d0e1fab[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 18 20:40:47 2026 -0300
+[31m|[m 
+[31m|[m     feat : Refatorando a Página, novo Layout
+[31m|[m 
+* [33mcommit 198e1b39a9d4046dd432e637361c427c7a072845[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 18 19:54:21 2026 -0300
+[31m|[m 
+[31m|[m     feat : Refatorando o projeto base.
+[31m|[m 
+* [33mcommit ca2ef92ca05c6f256445ca91140a797ccbebdf1a[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Tue Mar 17 22:35:01 2026 -0300
+[31m|[m 
+[31m|[m     Removendo o  DS_Store do track.
+[31m|[m 
+* [33mcommit 66e64d51437d4283153f3fc1bf502596c953e407[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 11 20:02:39 2026 -0300
+[31m|[m 
+[31m|[m     Pagina 1 adicionada
+[31m|[m 
+* [33mcommit 2a17be38bc4fb6bb8aaba2ed740d1fb8f1692a5d[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Tue Mar 10 22:46:58 2026 -0300
+[31m|[m 
+[31m|[m     Create README.md
+[31m|[m 
+* [33mcommit d7073fdb214292b4973ca3b5700c561216f15114[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Tue Mar 10 22:21:17 2026 -0300
+[31m|[m 
+[31m|[m     Tags semanticas básicas foram adicionadas.
+[31m|[m 
+* [33mcommit 8fde8ad22653b05496548275dc813d82e4215546[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 4 20:53:29 2026 -0300
+[31m|[m 
+[31m|[m     Tags, Padrões e Textos Adicionados.
+[31m|[m 
+* [33mcommit 75ab62b6446bf595f53e42914b55bcf3eb411bf5[m
+[31m|[m Author: tecnando-rpa <pronandofinancas@gmail.com>
+[31m|[m Date:   Wed Mar 4 20:26:07 2026 -0300
+[31m|[m 
+[31m|[m     DTD e Comentários Adicionados.
+[31m|[m 
+* [33mcommit 32dbf6a098bbb4eab56c18a5a38853115b3e6ef6[m
+  Author: tecnando-rpa <pronandofinancas@gmail.com>
+  Date:   Wed Mar 4 20:10:35 2026 -0300
+  
+      Arquivo HtML adicionado
